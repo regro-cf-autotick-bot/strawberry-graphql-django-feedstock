@@ -1,5 +1,5 @@
 {% set name = "strawberry-graphql-django" %}
-{% set version = "0.3" %}
+{% set version = "0.3.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/strawberry-graphql-django-{{ version }}.tar.gz
-  sha256: 4f262b33dacb2e93b466ab231cb7b547f03debf229fed554c5d87f9e342fc1a2
+  sha256: d66dd816211b5e4a60920a9e0697c1df63d8e14edf02ab04e1c1b696d19eda33
 
 build:
   noarch: python
