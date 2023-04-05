@@ -1,11 +1,11 @@
-About strawberry-graphql-django
-===============================
+About strawberry-graphql-django-feedstock
+=========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/strawberry-graphql-django-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/strawberry-graphql/strawberry-graphql-django
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/strawberry-graphql-django-feedstock/blob/main/LICENSE.txt)
 
 Summary: Strawberry GraphQL Django extension
 
